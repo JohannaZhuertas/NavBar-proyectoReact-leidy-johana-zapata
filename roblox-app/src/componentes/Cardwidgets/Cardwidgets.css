@@ -1,0 +1,11 @@
+
+    .cart-container {
+        background-color: #fff; /* Fondo blanco */
+        border-radius: 10px; /* Bordes redondeados */
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra suave */
+        padding: 4px;
+        max-width: 400px; /* Ancho máximo */
+        
+    }
+     
+}
